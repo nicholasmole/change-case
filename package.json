@@ -1,7 +1,7 @@
 {
   "name": "bias-round-to",
   "version": "0.1.0",
-  "description": "Round to the floor or ceiling with a bias towards a percentage",
+  "description": "Round a number to the floor or ceiling, based on your own set bias",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec"
