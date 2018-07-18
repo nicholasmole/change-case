@@ -1,0 +1,15 @@
+{
+  "name": "bias-round-to",
+  "version": "0.1.0",
+  "description": "Round to the floor or ceiling with a bias towards a percentage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rounding",
+    "Math"
+  ],
+  "author": "Nicholas Mole",
+  "license": "ISC"
+}
