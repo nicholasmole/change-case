@@ -4,12 +4,16 @@
   "description": "Round to the floor or ceiling with a bias towards a percentage",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --reporter spec"
   },
   "keywords": [
     "rounding",
     "Math"
   ],
   "author": "Nicholas Mole",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
 }
