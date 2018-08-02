@@ -1,7 +1,38 @@
-Bias Round To
+Change Case
 =========
 
-Round a number to the floor or ceiling, based on your own set bias
+Change string to sentence or title case.
+
+## Usage
+
+Use Cases
+
+[Sentence Case](#SentenceCase)
+
+[Title Case](#TitleCase)
+
+### SentenceCase
+
+```
+  import {sCase} from '@nicholasmole/change-case';
+  sCase('foo bar');
+
+  // outpus: 'Foo bar'
+
+```
+
+### TitleCase
+
+```
+  import {tCase} from '@nicholasmole/change-case';
+  tCase('foo bar');
+
+  // outpus: 'Foo Bar'
+
+```
+
+                                                                
+     
 
 ## Tests
 

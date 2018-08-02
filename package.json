@@ -1,14 +1,14 @@
 {
-  "name": "bias-round-to",
+  "name": "@nicholasmole/change-case",
   "version": "0.1.0",
-  "description": "Round a number to the floor or ceiling, based on your own set bias",
+  "description": "Change string to sentence or title case.",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec"
   },
   "keywords": [
-    "rounding",
-    "Math"
+    "Capitalize",
+    "Sentence Case"
   ],
   "author": "Nicholas Mole",
   "license": "ISC",
